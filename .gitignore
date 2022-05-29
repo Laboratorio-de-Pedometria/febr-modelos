@@ -37,3 +37,6 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+densidade-solo/res/fig/*.png
+densidade-solo/res/model/*.Rda
+carbono-estoque/data/*.txt
